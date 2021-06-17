@@ -1,0 +1,6 @@
+module Pods_vashandi {
+  umbrella header "Pods-vashandi-umbrella.h"
+
+  export *
+  module * { export * }
+}

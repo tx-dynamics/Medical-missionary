@@ -1,0 +1,186 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vashandi"
+4    android:versionCode="1"
+5    android:versionName="1.7.64" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:5:5-65
+13-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:5:22-62
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:6:5-80
+14-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.54.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/2fa344e99fbc8cc928a5b46ed302cce1/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.54.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/2fa344e99fbc8cc928a5b46ed302cce1/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+16
+17    <queries>
+17-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-14:15
+18        <intent>
+18-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-13:18
+19            <action android:name="android.media.action.IMAGE_CAPTURE" />
+19-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-73
+19-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:21-70
+20        </intent>
+21    </queries>
+22
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->[:react-native-maps] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+23-->[:react-native-maps] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Include required permissions for Google Maps API to run. -->
+24-->[:expo-file-system] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+24-->[:expo-file-system] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-77
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/6cbb003999cdf534abdf3d46633f78b1/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+25-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/6cbb003999cdf534abdf3d46633f78b1/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+26
+27    <uses-feature
+27-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/6cbb003999cdf534abdf3d46633f78b1/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+28        android:glEsVersion="0x00020000"
+28-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/6cbb003999cdf534abdf3d46633f78b1/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+29        android:required="true" />
+29-->[com.google.android.gms:play-services-maps:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/6cbb003999cdf534abdf3d46633f78b1/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+30
+31    <application
+31-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:8:5-35:19
+32        android:name="com.vashandi.MainApplication"
+32-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:9:7-38
+33        android:allowBackup="false"
+33-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:13:7-34
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.3.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/a99deb408f22f50c2a15731b00a3b3e8/core-1.3.0/AndroidManifest.xml:24:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:11:7-41
+37        android:label="@string/app_name"
+37-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:10:7-39
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:12:7-52
+39        android:theme="@style/AppTheme"
+39-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:14:7-38
+40        android:usesCleartextTraffic="true" >
+40-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/debug/AndroidManifest.xml:7:18-53
+41        <activity
+41-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:15:7-25:18
+42            android:name="com.vashandi.MainActivity"
+42-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:16:9-37
+43            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+43-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:18:9-86
+44            android:label="@string/app_name"
+44-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:17:9-41
+45            android:launchMode="singleTask"
+45-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:19:9-40
+46            android:windowSoftInputMode="adjustResize" >
+46-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:20:9-51
+47            <intent-filter>
+47-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:21:9-24:25
+48                <action android:name="android.intent.action.MAIN" />
+48-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:22:13-65
+48-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:22:21-62
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:23:13-73
+50-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:23:23-70
+51            </intent-filter>
+52        </activity>
+53        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" /> <!-- You will only need to add this meta-data tag, but make sure it's a child of application -->
+53-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:26:7-84
+53-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:26:17-81
+54        <meta-data
+54-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:28:4-30:53
+55            android:name="com.google.android.geo.API_KEY"
+55-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:29:6-51
+56            android:value="Your Google maps API Key Here" /> <!-- You will also only need to add this uses-library tag -->
+56-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:30:6-51
+57        <uses-library
+57-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:33:4-82
+58            android:name="org.apache.http.legacy"
+58-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:33:18-55
+59            android:required="false" />
+59-->/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/src/main/AndroidManifest.xml:33:56-80
+60
+61        <meta-data
+61-->[:unimodules-react-native-adapter] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:91
+62            android:name="org.unimodules.core.AppLoader#react-native-headless"
+62-->[:unimodules-react-native-adapter] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-79
+63            android:value="org.unimodules.adapters.react.apploader.RNHeadlessAppLoader" />
+63-->[:unimodules-react-native-adapter] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-88
+64
+65        <provider
+65-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-27:20
+66            android:name="androidx.core.content.FileProvider"
+66-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-62
+67            android:authorities="com.vashandi.provider"
+67-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-60
+68            android:exported="false"
+68-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-37
+69            android:grantUriPermissions="true" >
+69-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-47
+70            <meta-data
+70-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
+71                android:name="android.support.FILE_PROVIDER_PATHS"
+71-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+72                android:resource="@xml/provider_paths" />
+72-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
+73        </provider>
+74
+75        <activity
+75-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-31:72
+76            android:name="com.yalantis.ucrop.UCropActivity"
+76-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-60
+77            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+77-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-69
+78
+79        <provider
+79-->[:expo-file-system] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:9-26:20
+80            android:name="expo.modules.filesystem.FileSystemFileProvider"
+80-->[:expo-file-system] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-74
+81            android:authorities="com.vashandi.FileSystemFileProvider"
+81-->[:expo-file-system] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+82            android:exported="false"
+82-->[:expo-file-system] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-37
+83            android:grantUriPermissions="true" >
+83-->[:expo-file-system] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-47
+84            <meta-data
+84-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
+85                android:name="android.support.FILE_PROVIDER_PATHS"
+85-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+86                android:resource="@xml/file_system_provider_paths" />
+86-->[:react-native-image-crop-picker] /Users/ranasami/Desktop/work/Medcal-missionary-app/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
+87        </provider>
+88
+89        <meta-data
+89-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/6046c2e7efe833b3945f37489d13ca36/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:11:9-13:43
+90            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+90-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/6046c2e7efe833b3945f37489d13ca36/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:12:13-84
+91            android:value="GlideModule" />
+91-->[com.github.bumptech.glide:okhttp3-integration:4.11.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/6046c2e7efe833b3945f37489d13ca36/jetified-okhttp3-integration-4.11.0/AndroidManifest.xml:13:13-40
+92
+93        <activity
+93-->[com.google.android.gms:play-services-base:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/ea9c34f2f0968d57b6b29868547f0686/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+94-->[com.google.android.gms:play-services-base:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/ea9c34f2f0968d57b6b29868547f0686/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+95            android:exported="false"
+95-->[com.google.android.gms:play-services-base:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/ea9c34f2f0968d57b6b29868547f0686/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+96-->[com.google.android.gms:play-services-base:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/ea9c34f2f0968d57b6b29868547f0686/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+97
+98        <meta-data
+98-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/8e4029ecd9801f45c00bae3ad3e06b95/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+99            android:name="com.google.android.gms.version"
+99-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/8e4029ecd9801f45c00bae3ad3e06b95/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+100            android:value="@integer/google_play_services_version" />
+100-->[com.google.android.gms:play-services-basement:17.0.0] /Users/ranasami/.gradle/caches/transforms-2/files-2.1/8e4029ecd9801f45c00bae3ad3e06b95/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+101    </application>
+102
+103</manifest>
