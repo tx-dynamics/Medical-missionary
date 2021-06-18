@@ -47,8 +47,9 @@ const styles = StyleSheet.create({
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center',
-        paddingTop: constants.statusBarHeight,
+        // paddingTop: constants.statusBarHeight,
         backgroundColor: '#ecf0f1',
+        paddingTop:3
 
     },
     innerContainerTransparentStyle: {

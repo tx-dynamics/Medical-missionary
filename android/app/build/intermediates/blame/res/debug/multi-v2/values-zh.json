@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ranasami/Desktop/work/Medcal-missionary-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "outputFile": "D:\\reactapp\\Medical-missionary\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
             "map": [
                 {
-                    "source": "/Users/ranasami/.gradle/caches/transforms-2/files-2.1/885892f22b2e4fca3ab72d3683cd3315/jetified-ucrop-2.2.6-native/res/values-zh/values-zh.xml",
+                    "source": "C:\\Users\\Malik Mati\\.gradle\\caches\\transforms-2\\files-2.1\\e59784e45f3cef579229aa04062f8b10\\jetified-ucrop-2.2.6-native\\res\\values-zh\\values-zh.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

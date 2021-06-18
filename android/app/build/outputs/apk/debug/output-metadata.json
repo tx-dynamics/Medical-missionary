@@ -11,10 +11,10 @@
       "type": "SINGLE",
       "filters": [],
       "properties": [],
-      "versionCode": 1,
-      "versionName": "1.7.64",
+      "versionCode": 2,
+      "versionName": "2.11.104",
       "enabled": true,
-      "outputFile": "Medical Missionary v1.7.64.apk"
+      "outputFile": "Medical Missionary v2.11.104.apk"
     }
   ]
 }

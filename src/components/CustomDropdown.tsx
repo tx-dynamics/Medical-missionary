@@ -5,7 +5,7 @@ import genericFunctions, { emptyValidate } from '../helper/genericFunctions';
 import CustomIcon from './CustomIcon';
 import Text from './CustomText';
 import { textinputColor } from './CustomTextInput';
-import Constants from 'expo-constants';
+// import Constants from 'expo-constants';
 //END OF IMPORT's
 interface ddd {
     value?: any;

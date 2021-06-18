@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.vashandi"
     android:targetSandboxVersion="2"
-    android:versionCode="1"
-    android:versionName="1.7.64" >
+    android:versionCode="2"
+    android:versionName="2.11.104" >
 
     <uses-sdk
         android:minSdkVersion="21"

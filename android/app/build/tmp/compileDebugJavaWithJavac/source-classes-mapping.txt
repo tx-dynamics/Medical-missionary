@@ -1,0 +1,16 @@
+com/vashandi/BuildConfig.java
+ com.vashandi.BuildConfig
+com/vashandi/ReactNativeFlipper.java
+ com.vashandi.ReactNativeFlipper
+ com.vashandi.ReactNativeFlipper$1
+ com.vashandi.ReactNativeFlipper$2
+ com.vashandi.ReactNativeFlipper$2$1
+com/vashandi/generated/BasePackageList.java
+ com.vashandi.generated.BasePackageList
+com/vashandi/MainActivity.java
+ com.vashandi.MainActivity
+com/vashandi/MainApplication.java
+ com.vashandi.MainApplication
+ com.vashandi.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
