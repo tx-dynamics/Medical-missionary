@@ -634,7 +634,6 @@ export default class index extends Component {
                 }}
               />
             </View>
-
             {/* Next */}
             <View style={styles.nextButtonContainer}>
               <CustomButton
