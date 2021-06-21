@@ -7,16 +7,17 @@ export const styles = StyleSheet.create({
     backgroundColor: colors.background,
   },
   searchComponentContainer: {
-    position: "absolute",
-    width: "97%",
+    // position: "absolute",
+    width: "95%",
     alignSelf: "center",
     // top: Platform.OS === "android" ? Constants.statusBarHeight * 2 : Constants.statusBarHeight * 4.5,
-    zIndex: 1,
-    top: 3,
+    // zIndex: 1,
+    // top: 3,
+    marginTop: 10,
   },
   mapView: {
     flex: 1,
-    marginTop: 12,
+    // marginTop: 12,
   },
   mapMarmarkerHollow: {
     height: 60,

@@ -2,7 +2,7 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.vashandi"
 4    android:versionCode="2"
-5    android:versionName="2.11.104" >
+5    android:versionName="2.12.117" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
@@ -97,11 +97,11 @@
 53-->D:\reactapp\Medical-missionary\android\app\src\main\AndroidManifest.xml:26:7-84
 53-->D:\reactapp\Medical-missionary\android\app\src\main\AndroidManifest.xml:26:17-81
 54        <meta-data
-54-->D:\reactapp\Medical-missionary\android\app\src\main\AndroidManifest.xml:28:4-30:53
+54-->D:\reactapp\Medical-missionary\android\app\src\main\AndroidManifest.xml:28:4-30:63
 55            android:name="com.google.android.geo.API_KEY"
 55-->D:\reactapp\Medical-missionary\android\app\src\main\AndroidManifest.xml:29:6-51
-56            android:value="Your Google maps API Key Here" /> <!-- You will also only need to add this uses-library tag -->
-56-->D:\reactapp\Medical-missionary\android\app\src\main\AndroidManifest.xml:30:6-51
+56            android:value="AIzaSyCMMLQ0eIHkhBeOXAqY4mnjGKoR1PPuVrU" /> <!-- You will also only need to add this uses-library tag -->
+56-->D:\reactapp\Medical-missionary\android\app\src\main\AndroidManifest.xml:30:6-61
 57        <uses-library
 57-->D:\reactapp\Medical-missionary\android\app\src\main\AndroidManifest.xml:33:4-82
 58            android:name="org.apache.http.legacy"

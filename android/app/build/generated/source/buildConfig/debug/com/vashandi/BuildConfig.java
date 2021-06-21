@@ -8,5 +8,5 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "com.vashandi";
   public static final String BUILD_TYPE = "debug";
   public static final int VERSION_CODE = 2;
-  public static final String VERSION_NAME = "2.11.104";
+  public static final String VERSION_NAME = "2.12.117";
 }
